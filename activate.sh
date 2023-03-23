@@ -1,0 +1,1 @@
+source clulab_taskA_venv/bin/activate

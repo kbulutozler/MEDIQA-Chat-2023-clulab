@@ -1,0 +1,6 @@
+pandas==1.4.1
+numpy==1.22.3
+torch==1.13.1
+transformers==4.16.2
+gdown==4.6.4
+nltk==3.7
