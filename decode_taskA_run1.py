@@ -28,7 +28,6 @@ def main():
     # "TestID", "SystemOutput1", and "SystemOutput2"
     submission = {"TestID":[], "SystemOutput1":[], "SystemOutput2":[]}
     for i, row in df_test.iterrows():
-        print(i)
         dialogue = row["dialogue"]
         test_id = row["ID"]
         submission["TestID"].append(test_id)
